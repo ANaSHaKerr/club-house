@@ -34,7 +34,7 @@
 
 ### Create Club Screen
 <img src="https://i.imgur.com/siEq9Qp.jpg" width ="250px" height ="450px">
-<img src="https://i.imgur.com/xm3vRXL.jpg" width ="250px" height ="450px">
+<img src="https://i.imgur.com/Qpartw6.jpg" width ="250px" height ="450px">
 
 ------------------------------------------
 
@@ -58,4 +58,4 @@
 
 ------------------------------------------
 ### Project Video 
-Link https://youtu.be/zRMfzDCSNCo
+Link https://youtu.be/FhhsQjhFetk
