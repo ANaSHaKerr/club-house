@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890552589385",
+    "project_id": "clubhouse-24674",
+    "storage_bucket": "clubhouse-24674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890552589385:android:143df7e9a5fa4a1b3bf398",
+        "android_client_info": {
+          "package_name": "com.example.clubhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890552589385-b5p4jc6vfahhq53r7vk1uqgd6kmnvcq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clubhouse",
+            "certificate_hash": "41ac98142c088c3c0be9673de717cb518292f37c"
+          }
+        },
+        {
+          "client_id": "890552589385-upvprbklhs2rcucer00l92ie31r3mmkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clubhouse",
+            "certificate_hash": "215c8c3f54729cc7ca6f914960043b64b21bdd4e"
+          }
+        },
+        {
+          "client_id": "890552589385-hga8dhp32veqko4de37b9mpj5n9tuphj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1uM0-MQ0CuaSO4aeZWsg-CVG5O1XhNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890552589385-hga8dhp32veqko4de37b9mpj5n9tuphj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
